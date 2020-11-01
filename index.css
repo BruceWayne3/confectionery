@@ -1,0 +1,11 @@
+*,*:before,*:after {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+html,body {
+    height: 100%;
+    color: white;
+    background: url(https://webfon.top/wp-content/uploads/2016/10/prijatnoe-derevo-1.jpg) left top repeat;
+}
